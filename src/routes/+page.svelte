@@ -1,1 +1,4 @@
-<h1 class="grid h-screen place-content-center text-2xl text-red-300">Heading</h1>
+<script>
+</script>
+
+<div class="grid h-screen"><button class="btn btn-secondary">Button</button></div>
